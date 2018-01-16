@@ -95,6 +95,9 @@ fabric.properties
 # Ignores the whole idea folder
 # See https://github.com/joeblau/gitignore.io/issues/186 and https://github.com/joeblau/gitignore.io/issues/360
 
-
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
 
 # End of https://www.gitignore.io/api/pycharm+all,intellij+all
